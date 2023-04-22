@@ -5,8 +5,8 @@ A developer with a focus on back-end side but with some knowledge of front-end, 
 Here's some stats of my GitHub:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats-git-master-michael-maia.vercel.app/api?username=michael-maia&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <img height="180em" align="center" src="https://github-readme-stats-michael-maia.vercel.app/api?username=michael-maia&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats-git-master-michael-maia.vercel.app/api/top-langs/?username=michael-maia&layout=compact&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-stats-michael-maia.vercel.app/api/top-langs/?username=michael-maia&layout=compact&theme=dark"/>
 </a>
